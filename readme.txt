@@ -8,7 +8,7 @@ License: GPLv2
 Requires PHP: 5.3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Additional Script for Header and Footer
+Facutly CPT
 
 == Description ==
 
