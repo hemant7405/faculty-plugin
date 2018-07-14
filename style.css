@@ -1,0 +1,136 @@
+.entry-social,.entry-categories
+{
+	display: none;
+}
+
+.post-meta
+{
+	padding-top: 50px;
+}
+
+
+.faculty_post_type {
+    margin: 5px;
+    display: inline-block;
+
+}
+
+.faculty_post_type-details {
+    cursor: pointer; 
+    border: 1px solid #ef77a0; 
+    margin: 5px; 
+    padding: 10px; 
+    text-align: center;
+  	position: relative;
+  	width: 200px;
+  	box-shadow: 10px 10px 10px #aaa;
+
+
+}
+.faculty_type
+{
+
+	text-align: center;
+	font-size: 14px;
+}
+hr
+{
+	border:1px solid #000;
+}
+.faculty_post_type-title {
+    text-align: center; 
+    margin: 5px;
+}
+.social_wrap:hover
+{
+	border: none;
+	transform:scale(3);
+	transition: 0.5s;
+}
+.social
+{
+	display: inline-block;
+	margin-top:135px;
+	
+}
+.social_wrap
+{
+	display: inline-block;
+	border:1px solid #000;
+	width:30px;
+	margin: 10px;
+	text-align: center;
+	padding: 5px;
+	
+}
+
+.designation
+{
+	font-size:15px;
+	font-weight: bold;
+}
+.overlay {
+	 position: absolute;
+	 bottom: 100%;
+	 left: 0;
+	 right: 0;
+	 overflow: hidden;
+	 height:0;
+	 transition: .5s ease;
+	 opacity: 0;
+	 background-color: 	#ffabab;
+}
+.faculty_post_type-details:hover .overlay
+{
+	background-color: 	#ffabab;
+	bottom:0;
+	height: 100%;
+	opacity: 1;
+}
+.text {
+	 color: white;
+	 font-size: 20px;
+	 position: absolute;
+	 top:  30%;
+	 left: 50%;
+	 transform: translate(-50%, -50%);
+	 -ms-transform: translate(-50%, -50%);
+	 text-align: center;
+	 
+}
+img
+{
+	padding: 10px;
+}
+
+/* Css for Single page php */
+.single_page
+{
+	display: inline-block;
+	padding: 20px;
+
+}
+.page_image
+{
+	text-align: center;
+	
+}
+
+.page_details
+{
+	padding: 10px;
+	text-align: left;
+	font-weight: bold;
+	color: #000;
+
+
+}
+.social1
+{
+	display: inline-block;
+	
+}
+.section
+{
+	padding: 10px 0px;
+}
