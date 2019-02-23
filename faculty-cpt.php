@@ -1,6 +1,6 @@
 <?php
 /* 
-* Plugin Name: Faculty CPT
+* Plugin Name: Person CPT
 * Description: This plugin is used to create the Custom post type for Person also you can add the details of Person through meta boxes.
 * Author: Hemant Kothari
 * Author URI: #
