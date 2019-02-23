@@ -1,7 +1,7 @@
 <?php
 /* 
 * Plugin Name: Faculty CPT
-* Description: This plugin is used to create the Custom post type for faculty also you can add the details of faculty through meta boxes.
+* Description: This plugin is used to create the Custom post type for Person also you can add the details of Person through meta boxes.
 * Author: Hemant Kothari
 * Author URI: #
 * Version: 0.0.1
