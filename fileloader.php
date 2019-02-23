@@ -15,7 +15,7 @@ if ( ! class_exists( 'Fileloader' ) ) {
 			require_once WPHK_PLUGIN_DIR . '/modules/class-faculty-cw.php';
 			require_once WPHK_PLUGIN_DIR . '/modules/class-faculty-mb.php';
 			require_once WPHK_PLUGIN_DIR . '/modules/class-faculty-sc.php';
-			require_once WPHK_PLUGIN_DIR . '/admin/admin.php';
+			//require_once WPHK_PLUGIN_DIR . '/admin/admin.php';
 		}
 	}
 	
