@@ -1,9 +1,9 @@
 === Faculty CPT Wordpress Plugin ===
-Contributors: hemantkothari
+Contributors: hemantkothari, hdkothari81
 Requires at least: 4.4
 Tags: facutly cpt, cpt, Teacher, custom post type
-Stable tag: 0.0.1
-Tested up to: 5.1
+Stable tag: 0.0.2
+Tested up to: 6.0
 License: GPLv2
 Requires PHP: 5.3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -38,6 +38,9 @@ This plugin provides you the privileges for adding details of your faculty or em
 4. Find this settings from the WordPress Dashboard named `Person CPT`.
 
 == Changelog ==
+
+= 0.0.2 =
+- Compatibility with WordPress 6.0
 
 = 0.0.1 =
 - Initial release
